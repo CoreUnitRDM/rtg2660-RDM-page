@@ -1,0 +1,25 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+_pdf
+.DS_Store
+.idea
+vendor/
+.bundle/
+
+# Temporary files
+nohup.out
+*.tmp
+*.temp
+
+# Windows Zone.Identifier files
+*:Zone.Identifier
+
+# Backup files
+*_old
+*_old.*
+*.bak
+*.backup
+
+# Jekyll serve process files
+.jekyll-cache/

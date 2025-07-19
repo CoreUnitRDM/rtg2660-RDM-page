@@ -1,0 +1,2694 @@
+Configuration file: /home/hmdrzaa/rtg2660-RDM-page-cleaned/_config.yml
+            Source: /home/hmdrzaa/rtg2660-RDM-page-cleaned
+       Destination: /home/hmdrzaa/rtg2660-RDM-page-cleaned/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.767 seconds.
+ Auto-regeneration: enabled for '/home/hmdrzaa/rtg2660-RDM-page-cleaned'
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:08
+                    jekyll.log
+                    ...done in 0.5094427 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:09
+                    jekyll.log
+                    ...done in 0.2730901 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:10
+                    jekyll.log
+                    ...done in 0.2813124 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:11
+                    jekyll.log
+                    ...done in 0.2812456 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:12
+                    jekyll.log
+                    ...done in 0.2947022 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:13
+                    jekyll.log
+                    ...done in 0.254927196 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:14
+                    jekyll.log
+                    ...done in 0.261990696 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:15
+                    jekyll.log
+                    ...done in 0.348347994 seconds.
+                    
+[2025-07-19 23:37:15] ERROR '/images/rtg-logo.png' not found.
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:16
+                    jekyll.log
+                    ...done in 0.312884895 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:17
+                    jekyll.log
+                    ...done in 0.272501296 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:18
+                    jekyll.log
+                    ...done in 0.262409396 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:19
+                    jekyll.log
+                    ...done in 0.299705595 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:20
+                    jekyll.log
+                    ...done in 0.267265796 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:21
+                    jekyll.log
+                    ...done in 0.32234 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:22
+                    jekyll.log
+                    ...done in 0.294168301 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:23
+                    jekyll.log
+                    ...done in 0.325827401 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:24
+                    jekyll.log
+                    ...done in 0.310834001 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:25
+                    jekyll.log
+                    ...done in 0.322759801 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:26
+                    jekyll.log
+                    ...done in 0.2937786 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:27
+                    jekyll.log
+                    ...done in 0.2757971 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:28
+                    jekyll.log
+                    ...done in 0.2690927 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:29
+                    jekyll.log
+                    ...done in 0.2593104 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:30
+                    jekyll.log
+                    ...done in 0.2624139 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:31
+                    jekyll.log
+                    ...done in 0.2619973 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:32
+                    jekyll.log
+                    ...done in 0.266131201 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:33
+                    jekyll.log
+                    ...done in 0.261373701 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:34
+                    jekyll.log
+                    ...done in 0.2611685 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:35
+                    jekyll.log
+                    ...done in 0.2629045 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:36
+                    jekyll.log
+                    ...done in 0.2683972 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:37
+                    jekyll.log
+                    ...done in 0.300525601 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:38
+                    jekyll.log
+                    ...done in 0.264711201 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:39
+                    jekyll.log
+                    ...done in 0.265205802 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:40
+                    jekyll.log
+                    ...done in 0.261473001 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:41
+                    jekyll.log
+                    ...done in 0.265724601 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:42
+                    jekyll.log
+                    ...done in 0.311605102 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:43
+                    jekyll.log
+                    ...done in 0.292962101 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:44
+                    jekyll.log
+                    ...done in 0.270058201 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:45
+                    jekyll.log
+                    ...done in 0.313151098 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:46
+                    jekyll.log
+                    ...done in 0.295030596 seconds.
+                    
+      Regenerating: 3 file(s) changed at 2025-07-19 23:37:47
+                    jekyll.log
+                    .claude/settings.local.json
+                    images/rtg-logo.png
+                    ...done in 0.273741396 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:48
+                    jekyll.log
+                    ...done in 0.336249496 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:49
+                    jekyll.log
+                    ...done in 0.279069697 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:50
+                    jekyll.log
+                    ...done in 0.331878496 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:51
+                    jekyll.log
+                    ...done in 0.277944897 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:52
+                    jekyll.log
+                    ...done in 0.352067196 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:53
+                    jekyll.log
+                    ...done in 0.295534195 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:54
+                    jekyll.log
+                    ...done in 0.256995696 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:55
+                    jekyll.log
+                    ...done in 0.265415095 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:56
+                    jekyll.log
+                    ...done in 0.267522695 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:57
+                    jekyll.log
+                    ...done in 0.314815694 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:58
+                    jekyll.log
+                    ...done in 0.283669594 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:37:59
+                    jekyll.log
+                    ...done in 0.272224095 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:00
+                    jekyll.log
+                    ...done in 0.289255595 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:01
+                    jekyll.log
+                    ...done in 0.275864667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:02
+                    jekyll.log
+                    ...done in 0.282738852 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:03
+                    jekyll.log
+                    ...done in 0.284539451 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:04
+                    jekyll.log
+                    ...done in 0.278959052 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:05
+                    jekyll.log
+                    ...done in 0.299768249 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:06
+                    jekyll.log
+                    ...done in 0.320454945 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:07
+                    jekyll.log
+                    ...done in 0.282603751 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:08
+                    jekyll.log
+                    ...done in 0.29419735 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:09
+                    jekyll.log
+                    ...done in 0.310415267 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:10
+                    jekyll.log
+                    ...done in 0.344812975 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:11
+                    jekyll.log
+                    ...done in 0.302279178 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:12
+                    jekyll.log
+                    ...done in 0.335157875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:13
+                    jekyll.log
+                    ...done in 0.304200878 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:14
+                    jekyll.log
+                    ...done in 0.276514179 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:15
+                    jekyll.log
+                    ...done in 0.27165128 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:16
+                    jekyll.log
+                    ...done in 0.286895779 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:17
+                    jekyll.log
+                    ...done in 0.355368588 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:18
+                    jekyll.log
+                    ...done in 0.379338095 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:19
+                    jekyll.log
+                    ...done in 0.286665496 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:20
+                    jekyll.log
+                    ...done in 0.272913896 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:21
+                    jekyll.log
+                    ...done in 0.343368095 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:22
+                    jekyll.log
+                    ...done in 0.388623194 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:23
+                    jekyll.log
+                    ...done in 0.269449796 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:24
+                    jekyll.log
+                    ...done in 0.351936595 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:25
+                    jekyll.log
+                    ...done in 0.301713887 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:26
+                    jekyll.log
+                    ...done in 0.286945383 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:27
+                    jekyll.log
+                    ...done in 0.283593784 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:28
+                    jekyll.log
+                    ...done in 0.316816382 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:29
+                    jekyll.log
+                    ...done in 0.285738683 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:30
+                    jekyll.log
+                    ...done in 0.404613777 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:31
+                    jekyll.log
+                    ...done in 0.719442358 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:32
+                    jekyll.log
+                    ...done in 0.315410881 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:33
+                    jekyll.log
+                    ...done in 0.289722488 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:34
+                    jekyll.log
+                    ...done in 0.410436689 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:35
+                    jekyll.log
+                    ...done in 0.422133389 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:36
+                    jekyll.log
+                    ...done in 0.298044792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:37
+                    jekyll.log
+                    ...done in 0.287092193 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:38
+                    jekyll.log
+                    ...done in 0.288657593 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:39
+                    jekyll.log
+                    ...done in 0.283050793 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:40
+                    jekyll.log
+                    ...done in 0.280365293 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:41
+                    jekyll.log
+                    ...done in 0.311578784 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:42
+                    jekyll.log
+                    ...done in 0.27645148 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:43
+                    jekyll.log
+                    ...done in 0.514243464 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:44
+                    jekyll.log
+                    ...done in 0.292387779 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:45
+                    jekyll.log
+                    ...done in 0.28549858 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:46
+                    jekyll.log
+                    ...done in 0.288848279 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:47
+                    jekyll.log
+                    ...done in 0.276235281 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:48
+                    jekyll.log
+                    ...done in 0.288029479 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:49
+                    jekyll.log
+                    ...done in 0.277917388 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:50
+                    jekyll.log
+                    ...done in 0.289193898 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:51
+                    jekyll.log
+                    ...done in 0.367615297 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:52
+                    jekyll.log
+                    ...done in 0.293423597 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:53
+                    jekyll.log
+                    ...done in 0.283229598 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:54
+                    jekyll.log
+                    ...done in 0.278903798 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:55
+                    jekyll.log
+                    ...done in 0.279069798 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:56
+                    jekyll.log
+                    ...done in 0.295808298 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:57
+                    jekyll.log
+                    ...done in 0.282230013 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:58
+                    jekyll.log
+                    ...done in 0.297011539 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:38:59
+                    jekyll.log
+                    ...done in 0.332235243 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:00
+                    jekyll.log
+                    ...done in 0.30466564 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:01
+                    jekyll.log
+                    ...done in 0.283378837 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:02
+                    jekyll.log
+                    ...done in 0.288720438 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:03
+                    jekyll.log
+                    ...done in 0.298669239 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:04
+                    jekyll.log
+                    ...done in 0.290299939 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:05
+                    jekyll.log
+                    ...done in 0.345520168 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:06
+                    jekyll.log
+                    ...done in 0.27520537 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:07
+                    jekyll.log
+                    ...done in 0.277275771 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:08
+                    jekyll.log
+                    ...done in 0.27306837 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:09
+                    jekyll.log
+                    ...done in 0.301890177 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:10
+                    jekyll.log
+                    ...done in 0.330486684 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:11
+                    jekyll.log
+                    ...done in 0.292345975 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:12
+                    jekyll.log
+                    ...done in 0.27678597 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:13
+                    jekyll.log
+                    ...done in 0.297456594 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:14
+                    jekyll.log
+                    ...done in 0.278665813 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:15
+                    jekyll.log
+                    ...done in 0.273224311 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:16
+                    jekyll.log
+                    ...done in 0.340874838 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:17
+                    jekyll.log
+                    ...done in 0.285549216 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:18
+                    jekyll.log
+                    ...done in 0.336523537 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:19
+                    jekyll.log
+                    ...done in 0.289017418 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:20
+                    jekyll.log
+                    ...done in 0.325902333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:21
+                    jekyll.log
+                    ...done in 0.268612277 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:22
+                    jekyll.log
+                    ...done in 0.345098603 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:23
+                    jekyll.log
+                    ...done in 0.264609402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:24
+                    jekyll.log
+                    ...done in 0.268842402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:25
+                    jekyll.log
+                    ...done in 0.271929702 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:26
+                    jekyll.log
+                    ...done in 0.277494101 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:27
+                    jekyll.log
+                    ...done in 0.401416703 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:28
+                    jekyll.log
+                    ...done in 0.380302502 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:29
+                    jekyll.log
+                    ...done in 0.296030503 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:30
+                    jekyll.log
+                    ...done in 0.404835005 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:31
+                    jekyll.log
+                    ...done in 0.327853404 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-07-19 23:39:32
+                    jekyll.log
+                    _data/topnav.yml
+                    ...done in 0.320359604 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:33
+                    jekyll.log
+                    ...done in 0.326314904 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:34
+                    jekyll.log
+                    ...done in 0.321358504 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:35
+                    jekyll.log
+                    ...done in 0.279849503 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:36
+                    jekyll.log
+                    ...done in 0.329688904 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:37
+                    jekyll.log
+                    ...done in 0.329628305 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:38
+                    jekyll.log
+                    ...done in 0.302730408 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:39
+                    jekyll.log
+                    ...done in 0.327658808 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:40
+                    jekyll.log
+                    ...done in 0.277289207 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:41
+                    jekyll.log
+                    ...done in 0.275628707 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:42
+                    jekyll.log
+                    ...done in 0.316144007 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:43
+                    jekyll.log
+                    ...done in 0.304961408 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:44
+                    jekyll.log
+                    ...done in 0.284415207 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:45
+                    jekyll.log
+                    ...done in 0.284463807 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:46
+                    jekyll.log
+                    ...done in 0.295283507 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:47
+                    jekyll.log
+                    ...done in 0.283673508 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:48
+                    jekyll.log
+                    ...done in 0.359711009 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:49
+                    jekyll.log
+                    ...done in 0.288709207 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:50
+                    jekyll.log
+                    ...done in 0.309056208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:51
+                    jekyll.log
+                    ...done in 0.278713608 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:52
+                    jekyll.log
+                    ...done in 0.305882208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:53
+                    jekyll.log
+                    ...done in 0.280733709 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:54
+                    jekyll.log
+                    ...done in 0.300152631 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:55
+                    jekyll.log
+                    ...done in 0.608912063 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:56
+                    jekyll.log
+                    ...done in 0.567001659 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:57
+                    jekyll.log
+                    ...done in 0.349032336 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:58
+                    jekyll.log
+                    ...done in 0.315168633 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:39:59
+                    jekyll.log
+                    ...done in 0.319825533 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:00
+                    jekyll.log
+                    ...done in 0.406951442 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:01
+                    jekyll.log
+                    ...done in 0.309669231 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:02
+                    jekyll.log
+                    ...done in 0.322147824 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:03
+                    jekyll.log
+                    ...done in 0.307922923 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:04
+                    jekyll.log
+                    ...done in 0.381432828 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:05
+                    jekyll.log
+                    ...done in 0.27722402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:06
+                    jekyll.log
+                    ...done in 0.297505122 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:07
+                    jekyll.log
+                    ...done in 0.286476921 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:08
+                    jekyll.log
+                    ...done in 0.280686821 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:09
+                    jekyll.log
+                    ...done in 0.317786425 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:10
+                    jekyll.log
+                    ...done in 0.303041437 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:11
+                    jekyll.log
+                    ...done in 0.305498436 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:12
+                    jekyll.log
+                    ...done in 0.369462844 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:13
+                    jekyll.log
+                    ...done in 0.324007938 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:14
+                    jekyll.log
+                    ...done in 0.321252738 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:15
+                    jekyll.log
+                    ...done in 0.402117448 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:16
+                    jekyll.log
+                    ...done in 0.295947136 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:17
+                    jekyll.log
+                    ...done in 0.280628134 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:18
+                    jekyll.log
+                    ...done in 0.28407733 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:19
+                    jekyll.log
+                    ...done in 0.361184938 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:20
+                    jekyll.log
+                    ...done in 0.28903813 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:21
+                    jekyll.log
+                    ...done in 0.330310734 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:22
+                    jekyll.log
+                    ...done in 0.416399043 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:23
+                    jekyll.log
+                    ...done in 0.317401534 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:24
+                    jekyll.log
+                    ...done in 0.433180946 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:25
+                    jekyll.log
+                    ...done in 0.364393835 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:26
+                    jekyll.log
+                    ...done in 0.280006417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:27
+                    jekyll.log
+                    ...done in 0.303653018 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:28
+                    jekyll.log
+                    ...done in 0.263150015 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:29
+                    jekyll.log
+                    ...done in 0.279051116 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:30
+                    jekyll.log
+                    ...done in 0.371783521 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:31
+                    jekyll.log
+                    ...done in 0.258303215 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:32
+                    jekyll.log
+                    ...done in 0.268414015 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:33
+                    jekyll.log
+                    ...done in 0.296686518 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:34
+                    jekyll.log
+                    ...done in 0.271499728 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:35
+                    jekyll.log
+                    ...done in 0.312062632 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:36
+                    jekyll.log
+                    ...done in 0.273931729 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:37
+                    jekyll.log
+                    ...done in 0.296089231 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:38
+                    jekyll.log
+                    ...done in 0.271654728 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:39
+                    jekyll.log
+                    ...done in 0.266285428 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:40
+                    jekyll.log
+                    ...done in 0.308419632 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:41
+                    jekyll.log
+                    ...done in 0.276115229 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:42
+                    jekyll.log
+                    ...done in 0.365543708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:43
+                    jekyll.log
+                    ...done in 0.279544807 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:44
+                    jekyll.log
+                    ...done in 0.300656807 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:45
+                    jekyll.log
+                    ...done in 0.292043307 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:46
+                    jekyll.log
+                    ...done in 0.264674706 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:47
+                    jekyll.log
+                    ...done in 0.268384106 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:48
+                    jekyll.log
+                    ...done in 0.289761507 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:49
+                    jekyll.log
+                    ...done in 0.278264207 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:50
+                    jekyll.log
+                    ...done in 0.282730006 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:51
+                    jekyll.log
+                    ...done in 0.266862805 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:52
+                    jekyll.log
+                    ...done in 0.296552006 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:53
+                    jekyll.log
+                    ...done in 0.336872907 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:54
+                    jekyll.log
+                    ...done in 0.277232906 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:55
+                    jekyll.log
+                    ...done in 0.280748105 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:56
+                    jekyll.log
+                    ...done in 0.271144706 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:57
+                    jekyll.log
+                    ...done in 0.290827606 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:58
+                    jekyll.log
+                    ...done in 0.303086228 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:40:59
+                    jekyll.log
+                    ...done in 0.302638127 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:00
+                    jekyll.log
+                    ...done in 0.278625726 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:01
+                    jekyll.log
+                    ...done in 0.276414525 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:02
+                    jekyll.log
+                    ...done in 0.287318027 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:03
+                    jekyll.log
+                    ...done in 0.299443027 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:04
+                    jekyll.log
+                    ...done in 0.384858235 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:05
+                    jekyll.log
+                    ...done in 0.294160227 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:06
+                    jekyll.log
+                    ...done in 0.26883413 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:07
+                    jekyll.log
+                    ...done in 0.291204233 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:08
+                    jekyll.log
+                    ...done in 0.288310533 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:09
+                    jekyll.log
+                    ...done in 0.311388135 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:10
+                    jekyll.log
+                    ...done in 0.310097134 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:11
+                    jekyll.log
+                    ...done in 0.279196732 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:12
+                    jekyll.log
+                    ...done in 0.296099733 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:13
+                    jekyll.log
+                    ...done in 0.288780132 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:14
+                    jekyll.log
+                    ...done in 0.384416864 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:15
+                    jekyll.log
+                    ...done in 0.341602657 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:16
+                    jekyll.log
+                    ...done in 0.277070947 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:17
+                    jekyll.log
+                    ...done in 0.281225647 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:18
+                    jekyll.log
+                    ...done in 0.29978425 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:19
+                    jekyll.log
+                    ...done in 0.308326251 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:20
+                    jekyll.log
+                    ...done in 0.295543849 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:21
+                    jekyll.log
+                    ...done in 0.302116651 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:22
+                    jekyll.log
+                    ...done in 0.363397755 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:23
+                    jekyll.log
+                    ...done in 0.421283164 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:24
+                    jekyll.log
+                    ...done in 0.303594246 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:25
+                    jekyll.log
+                    ...done in 0.308405147 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:26
+                    jekyll.log
+                    ...done in 0.321203449 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:27
+                    jekyll.log
+                    ...done in 0.293055845 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:28
+                    jekyll.log
+                    ...done in 0.311631848 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:29
+                    jekyll.log
+                    ...done in 0.298175746 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:30
+                    jekyll.log
+                    ...done in 0.314845421 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:31
+                    jekyll.log
+                    ...done in 0.337077922 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:32
+                    jekyll.log
+                    ...done in 0.31187752 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:33
+                    jekyll.log
+                    ...done in 0.30536882 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:34
+                    jekyll.log
+                    ...done in 0.31516782 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:35
+                    jekyll.log
+                    ...done in 0.410367027 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:36
+                    jekyll.log
+                    ...done in 0.327464121 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:37
+                    jekyll.log
+                    ...done in 0.335568321 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:38
+                    jekyll.log
+                    ...done in 0.30878152 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:39
+                    jekyll.log
+                    ...done in 0.343498723 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:40
+                    jekyll.log
+                    ...done in 0.332048422 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:41
+                    jekyll.log
+                    ...done in 0.292799019 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:42
+                    jekyll.log
+                    ...done in 0.286325219 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:43
+                    jekyll.log
+                    ...done in 0.429259329 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:44
+                    jekyll.log
+                    ...done in 0.419741829 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:45
+                    jekyll.log
+                    ...done in 0.314429321 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:46
+                    jekyll.log
+                    ...done in 0.356887428 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:47
+                    jekyll.log
+                    ...done in 0.299894224 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:48
+                    jekyll.log
+                    ...done in 0.310412825 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:49
+                    jekyll.log
+                    ...done in 0.314476725 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:50
+                    jekyll.log
+                    ...done in 0.306349224 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:51
+                    jekyll.log
+                    ...done in 0.326529226 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:52
+                    jekyll.log
+                    ...done in 0.580552546 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:53
+                    jekyll.log
+                    ...done in 0.309555325 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:54
+                    jekyll.log
+                    ...done in 0.304062924 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:55
+                    jekyll.log
+                    ...done in 0.41534697 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:56
+                    jekyll.log
+                    ...done in 0.320773332 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:57
+                    jekyll.log
+                    ...done in 0.29135752 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:58
+                    jekyll.log
+                    ...done in 0.335155037 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:41:59
+                    jekyll.log
+                    ...done in 0.275196612 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:00
+                    jekyll.log
+                    ...done in 0.298169022 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:01
+                    jekyll.log
+                    ...done in 0.332234636 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:02
+                    jekyll.log
+                    ...done in 0.412953021 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:03
+                    jekyll.log
+                    ...done in 0.294862315 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:04
+                    jekyll.log
+                    ...done in 0.423812422 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:05
+                    jekyll.log
+                    ...done in 0.272058714 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:06
+                    jekyll.log
+                    ...done in 0.312928117 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:07
+                    jekyll.log
+                    ...done in 0.291018215 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:08
+                    jekyll.log
+                    ...done in 0.298809615 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:09
+                    jekyll.log
+                    ...done in 0.281978514 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:10
+                    jekyll.log
+                    ...done in 0.296219616 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:11
+                    jekyll.log
+                    ...done in 0.279876715 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:12
+                    jekyll.log
+                    ...done in 0.286962415 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:13
+                    jekyll.log
+                    ...done in 0.285613615 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:14
+                    jekyll.log
+                    ...done in 0.298295215 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:15
+                    jekyll.log
+                    ...done in 0.289804115 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:16
+                    jekyll.log
+                    ...done in 0.277142315 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:17
+                    jekyll.log
+                    ...done in 0.297846316 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:18
+                    jekyll.log
+                    ...done in 0.273973014 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:19
+                    jekyll.log
+                    ...done in 0.468489623 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:20
+                    jekyll.log
+                    ...done in 0.300661015 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:21
+                    jekyll.log
+                    ...done in 0.296415415 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:22
+                    jekyll.log
+                    ...done in 0.282203014 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:23
+                    jekyll.log
+                    ...done in 0.284188514 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:24
+                    jekyll.log
+                    ...done in 0.280055714 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:25
+                    jekyll.log
+                    ...done in 0.324380217 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:26
+                    jekyll.log
+                    ...done in 0.273745714 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:27
+                    jekyll.log
+                    ...done in 0.363891518 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:28
+                    jekyll.log
+                    ...done in 0.285444514 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:29
+                    jekyll.log
+                    ...done in 0.280510213 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:30
+                    jekyll.log
+                    ...done in 0.291012214 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:31
+                    jekyll.log
+                    ...done in 0.286648614 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:32
+                    jekyll.log
+                    ...done in 0.304741615 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:33
+                    jekyll.log
+                    ...done in 0.291565314 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:34
+                    jekyll.log
+                    ...done in 0.282496402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:35
+                    jekyll.log
+                    ...done in 0.431257303 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:36
+                    jekyll.log
+                    ...done in 0.268734801 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:37
+                    jekyll.log
+                    ...done in 0.286715801 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:38
+                    jekyll.log
+                    ...done in 0.275534701 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:39
+                    jekyll.log
+                    ...done in 0.278043301 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:40
+                    jekyll.log
+                    ...done in 0.317844902 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:41
+                    jekyll.log
+                    ...done in 0.292998201 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:42
+                    jekyll.log
+                    ...done in 0.29400649 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:43
+                    jekyll.log
+                    ...done in 0.308569284 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:44
+                    jekyll.log
+                    ...done in 0.323420979 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:45
+                    jekyll.log
+                    ...done in 0.303655786 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:46
+                    jekyll.log
+                    ...done in 0.279319795 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:47
+                    jekyll.log
+                    ...done in 0.29336299 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:48
+                    jekyll.log
+                    ...done in 0.434479438 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:49
+                    jekyll.log
+                    ...done in 0.296245189 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:50
+                    jekyll.log
+                    ...done in 0.299555902 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:51
+                    jekyll.log
+                    ...done in 0.296165802 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:52
+                    jekyll.log
+                    ...done in 0.303097402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:53
+                    jekyll.log
+                    ...done in 0.299647302 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:54
+                    jekyll.log
+                    ...done in 0.299860502 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:55
+                    jekyll.log
+                    ...done in 0.303726802 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-07-19 23:42:56
+                    jekyll.log
+                    index.md
+                    ...done in 0.300118402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:57
+                    jekyll.log
+                    ...done in 0.293796602 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:58
+                    jekyll.log
+                    ...done in 0.280686196 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:42:59
+                    jekyll.log
+                    ...done in 0.297679196 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:00
+                    jekyll.log
+                    ...done in 0.444112594 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:01
+                    jekyll.log
+                    ...done in 0.294403096 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:02
+                    jekyll.log
+                    ...done in 0.285973496 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:03
+                    jekyll.log
+                    ...done in 0.290542397 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:04
+                    jekyll.log
+                    ...done in 0.298037096 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:05
+                    jekyll.log
+                    ...done in 0.287524396 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:06
+                    jekyll.log
+                    ...done in 0.3779388 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:07
+                    jekyll.log
+                    ...done in 0.2931137 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:08
+                    jekyll.log
+                    ...done in 0.3264118 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:09
+                    jekyll.log
+                    ...done in 0.3699114 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:10
+                    jekyll.log
+                    ...done in 0.3145883 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:11
+                    jekyll.log
+                    ...done in 0.3558016 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:12
+                    jekyll.log
+                    ...done in 0.3312102 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:13
+                    jekyll.log
+                    ...done in 0.2803399 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:14
+                    jekyll.log
+                    ...done in 0.302188599 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:15
+                    jekyll.log
+                    ...done in 0.322077699 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:16
+                    jekyll.log
+                    ...done in 0.291740299 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:17
+                    jekyll.log
+                    ...done in 0.316011399 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:18
+                    jekyll.log
+                    ...done in 0.303900999 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:19
+                    jekyll.log
+                    ...done in 0.322278199 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:20
+                    jekyll.log
+                    ...done in 0.305131299 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:21
+                    jekyll.log
+                    ...done in 0.313300199 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:22
+                    jekyll.log
+                    ...done in 0.305722405 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:23
+                    jekyll.log
+                    ...done in 0.320671006 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:24
+                    jekyll.log
+                    ...done in 0.317975105 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:25
+                    jekyll.log
+                    ...done in 0.488137408 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:26
+                    jekyll.log
+                    ...done in 0.322056006 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:27
+                    jekyll.log
+                    ...done in 0.285146505 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:28
+                    jekyll.log
+                    ...done in 0.299026506 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:29
+                    jekyll.log
+                    ...done in 0.293625805 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:30
+                    jekyll.log
+                    ...done in 0.336703893 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:31
+                    jekyll.log
+                    ...done in 0.313605293 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:32
+                    jekyll.log
+                    ...done in 0.303189593 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:33
+                    jekyll.log
+                    ...done in 0.311530694 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:34
+                    jekyll.log
+                    ...done in 0.301775693 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:35
+                    jekyll.log
+                    ...done in 0.335345393 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:36
+                    jekyll.log
+                    ...done in 0.335014093 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:37
+                    jekyll.log
+                    ...done in 0.293792893 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:38
+                    jekyll.log
+                    ...done in 0.312951595 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:39
+                    jekyll.log
+                    ...done in 0.290329995 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:40
+                    jekyll.log
+                    ...done in 0.280281296 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:41
+                    jekyll.log
+                    ...done in 0.284120695 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:42
+                    jekyll.log
+                    ...done in 0.292688795 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:43
+                    jekyll.log
+                    ...done in 0.289604695 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:44
+                    jekyll.log
+                    ...done in 0.303677595 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:45
+                    jekyll.log
+                    ...done in 0.316948294 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:46
+                    jekyll.log
+                    ...done in 0.297002601 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:47
+                    jekyll.log
+                    ...done in 0.306789601 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:48
+                    jekyll.log
+                    ...done in 0.473168501 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:49
+                    jekyll.log
+                    ...done in 0.291563601 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:50
+                    jekyll.log
+                    ...done in 0.316474301 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:51
+                    jekyll.log
+                    ...done in 0.296794501 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:52
+                    jekyll.log
+                    ...done in 0.483423201 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:53
+                    jekyll.log
+                    ...done in 0.303650301 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:54
+                    jekyll.log
+                    ...done in 0.310170481 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:55
+                    jekyll.log
+                    ...done in 0.287032283 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:56
+                    jekyll.log
+                    ...done in 0.306929981 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:57
+                    jekyll.log
+                    ...done in 0.306448281 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:58
+                    jekyll.log
+                    ...done in 0.271134083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:43:59
+                    jekyll.log
+                    ...done in 0.31811378 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:00
+                    jekyll.log
+                    ...done in 0.315485481 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:01
+                    jekyll.log
+                    ...done in 0.278370784 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:02
+                    jekyll.log
+                    ...done in 0.391275497 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:03
+                    jekyll.log
+                    ...done in 0.303302098 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:04
+                    jekyll.log
+                    ...done in 0.364947797 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:05
+                    jekyll.log
+                    ...done in 0.279518597 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:06
+                    jekyll.log
+                    ...done in 0.283061898 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:07
+                    jekyll.log
+                    ...done in 0.299485398 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:08
+                    jekyll.log
+                    ...done in 0.293587998 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:09
+                    jekyll.log
+                    ...done in 0.298965297 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:10
+                    jekyll.log
+                    ...done in 0.288973096 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:11
+                    jekyll.log
+                    ...done in 0.29753909 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:12
+                    jekyll.log
+                    ...done in 0.335438764 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:13
+                    jekyll.log
+                    ...done in 0.285538998 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:14
+                    jekyll.log
+                    ...done in 0.26977451 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:15
+                    jekyll.log
+                    ...done in 0.288982096 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:16
+                    jekyll.log
+                    ...done in 0.270782825 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:17
+                    jekyll.log
+                    ...done in 0.277119703 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:18
+                    jekyll.log
+                    ...done in 0.303959103 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:19
+                    jekyll.log
+                    ...done in 0.263340903 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:20
+                    jekyll.log
+                    ...done in 0.283838003 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:21
+                    jekyll.log
+                    ...done in 0.296721003 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:22
+                    jekyll.log
+                    ...done in 0.293082803 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:23
+                    jekyll.log
+                    ...done in 0.294566603 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:24
+                    jekyll.log
+                    ...done in 0.271834203 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:25
+                    jekyll.log
+                    ...done in 0.291378603 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:26
+                    jekyll.log
+                    ...done in 0.277899101 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:27
+                    jekyll.log
+                    ...done in 0.295834202 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:28
+                    jekyll.log
+                    ...done in 0.276486001 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:29
+                    jekyll.log
+                    ...done in 0.277616201 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:30
+                    jekyll.log
+                    ...done in 0.407493302 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:31
+                    jekyll.log
+                    ...done in 0.306472401 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:32
+                    jekyll.log
+                    ...done in 0.306268801 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:33
+                    jekyll.log
+                    ...done in 0.289814601 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:34
+                    jekyll.log
+                    ...done in 0.280807069 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:35
+                    jekyll.log
+                    ...done in 0.307379257 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:36
+                    jekyll.log
+                    ...done in 0.270654074 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:37
+                    jekyll.log
+                    ...done in 0.283677968 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:38
+                    jekyll.log
+                    ...done in 0.284914067 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:39
+                    jekyll.log
+                    ...done in 0.269819974 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:40
+                    jekyll.log
+                    ...done in 0.284538668 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:41
+                    jekyll.log
+                    ...done in 0.273945972 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:42
+                    jekyll.log
+                    ...done in 0.290912522 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:43
+                    jekyll.log
+                    ...done in 0.283587881 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:44
+                    jekyll.log
+                    ...done in 0.288374743 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:45
+                    jekyll.log
+                    ...done in 0.303527497 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:46
+                    jekyll.log
+                    ...done in 0.276827498 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:47
+                    jekyll.log
+                    ...done in 0.273677498 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:48
+                    jekyll.log
+                    ...done in 0.286187498 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:49
+                    jekyll.log
+                    ...done in 0.283825898 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:50
+                    jekyll.log
+                    ...done in 0.285185468 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:51
+                    jekyll.log
+                    ...done in 0.385734057 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:52
+                    jekyll.log
+                    ...done in 0.277042969 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:53
+                    jekyll.log
+                    ...done in 0.298433667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:54
+                    jekyll.log
+                    ...done in 0.27734407 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:55
+                    jekyll.log
+                    ...done in 0.282149469 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:56
+                    jekyll.log
+                    ...done in 0.286418668 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:57
+                    jekyll.log
+                    ...done in 0.27388567 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:58
+                    jekyll.log
+                    ...done in 0.280866584 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:44:59
+                    jekyll.log
+                    ...done in 0.275796986 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:00
+                    jekyll.log
+                    ...done in 0.307618573 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:01
+                    jekyll.log
+                    ...done in 0.277348286 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:02
+                    jekyll.log
+                    ...done in 0.296842978 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:03
+                    jekyll.log
+                    ...done in 0.275326986 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:04
+                    jekyll.log
+                    ...done in 0.335447262 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:05
+                    jekyll.log
+                    ...done in 0.31705797 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:06
+                    jekyll.log
+                    ...done in 0.31735748 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:07
+                    jekyll.log
+                    ...done in 0.307764183 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:08
+                    jekyll.log
+                    ...done in 0.377281357 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:09
+                    jekyll.log
+                    ...done in 0.311997081 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:10
+                    jekyll.log
+                    ...done in 0.354426265 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:11
+                    jekyll.log
+                    ...done in 0.295350188 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:12
+                    jekyll.log
+                    ...done in 0.500767609 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:13
+                    jekyll.log
+                    ...done in 0.287517391 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:14
+                    jekyll.log
+                    ...done in 0.31934144 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:15
+                    jekyll.log
+                    ...done in 0.2823811 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:16
+                    jekyll.log
+                    ...done in 0.288436407 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:17
+                    jekyll.log
+                    ...done in 0.287414406 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:18
+                    jekyll.log
+                    ...done in 0.292104711 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:19
+                    jekyll.log
+                    ...done in 0.297230616 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:20
+                    jekyll.log
+                    ...done in 0.289456208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:21
+                    jekyll.log
+                    ...done in 0.289308107 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:22
+                    jekyll.log
+                    ...done in 0.318376435 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:23
+                    jekyll.log
+                    ...done in 0.289180141 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:24
+                    jekyll.log
+                    ...done in 0.29372014 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:25
+                    jekyll.log
+                    ...done in 0.306603837 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:26
+                    jekyll.log
+                    ...done in 0.298525139 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:27
+                    jekyll.log
+                    ...done in 0.29159354 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:28
+                    jekyll.log
+                    ...done in 0.298234838 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:29
+                    jekyll.log
+                    ...done in 0.285529841 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:30
+                    jekyll.log
+                    ...done in 0.510616809 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:31
+                    jekyll.log
+                    ...done in 0.285523249 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:32
+                    jekyll.log
+                    ...done in 0.314193444 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:33
+                    jekyll.log
+                    ...done in 0.27805805 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:34
+                    jekyll.log
+                    ...done in 0.290497247 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:35
+                    jekyll.log
+                    ...done in 0.282617649 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:36
+                    jekyll.log
+                    ...done in 0.291772447 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:37
+                    jekyll.log
+                    ...done in 0.291386648 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:38
+                    jekyll.log
+                    ...done in 0.299963019 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:39
+                    jekyll.log
+                    ...done in 0.284011317 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:40
+                    jekyll.log
+                    ...done in 0.280874017 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:41
+                    jekyll.log
+                    ...done in 0.290316518 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:42
+                    jekyll.log
+                    ...done in 0.281752517 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:43
+                    jekyll.log
+                    ...done in 0.310890519 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:44
+                    jekyll.log
+                    ...done in 0.272793817 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:45
+                    jekyll.log
+                    ...done in 0.32138022 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:46
+                    jekyll.log
+                    ...done in 0.316865576 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:47
+                    jekyll.log
+                    ...done in 0.293613778 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:48
+                    jekyll.log
+                    ...done in 0.293604778 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:49
+                    jekyll.log
+                    ...done in 0.280026479 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:50
+                    jekyll.log
+                    ...done in 0.342083074 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:51
+                    jekyll.log
+                    ...done in 0.285037579 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:52
+                    jekyll.log
+                    ...done in 0.298565778 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:53
+                    jekyll.log
+                    ...done in 0.281523979 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:54
+                    jekyll.log
+                    ...done in 0.297842378 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:55
+                    jekyll.log
+                    ...done in 0.279499479 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:56
+                    jekyll.log
+                    ...done in 0.280468479 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:57
+                    jekyll.log
+                    ...done in 0.296780278 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:58
+                    jekyll.log
+                    ...done in 0.325020075 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:45:59
+                    jekyll.log
+                    ...done in 0.302674178 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:00
+                    jekyll.log
+                    ...done in 0.293040778 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:01
+                    jekyll.log
+                    ...done in 0.283886879 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:02
+                    jekyll.log
+                    ...done in 0.307503875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:03
+                    jekyll.log
+                    ...done in 0.511574691 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:04
+                    jekyll.log
+                    ...done in 0.395120325 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:05
+                    jekyll.log
+                    ...done in 0.300848871 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:06
+                    jekyll.log
+                    ...done in 0.285934462 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:07
+                    jekyll.log
+                    ...done in 0.314957579 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:08
+                    jekyll.log
+                    ...done in 0.306310174 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:09
+                    jekyll.log
+                    ...done in 0.363173906 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:10
+                    jekyll.log
+                    ...done in 0.317103097 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:11
+                    jekyll.log
+                    ...done in 0.299823498 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:12
+                    jekyll.log
+                    ...done in 0.302510997 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:13
+                    jekyll.log
+                    ...done in 0.302686698 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:14
+                    jekyll.log
+                    ...done in 0.284107597 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:15
+                    jekyll.log
+                    ...done in 0.291841998 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:16
+                    jekyll.log
+                    ...done in 0.539467996 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:17
+                    jekyll.log
+                    ...done in 0.300507197 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:18
+                    jekyll.log
+                    ...done in 0.3204251 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:19
+                    jekyll.log
+                    ...done in 0.3311832 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:20
+                    jekyll.log
+                    ...done in 0.2856761 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:21
+                    jekyll.log
+                    ...done in 0.3060181 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:22
+                    jekyll.log
+                    ...done in 0.3310424 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:23
+                    jekyll.log
+                    ...done in 0.300058899 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:24
+                    jekyll.log
+                    ...done in 0.358393299 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:25
+                    jekyll.log
+                    ...done in 0.3190634 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:26
+                    jekyll.log
+                    ...done in 0.288011068 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:27
+                    jekyll.log
+                    ...done in 0.313227365 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:28
+                    jekyll.log
+                    ...done in 0.302118666 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:29
+                    jekyll.log
+                    ...done in 0.285013069 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:30
+                    jekyll.log
+                    ...done in 0.308817066 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:31
+                    jekyll.log
+                    ...done in 0.318723965 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:32
+                    jekyll.log
+                    ...done in 0.313504665 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:33
+                    jekyll.log
+                    ...done in 0.336874163 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:34
+                    jekyll.log
+                    ...done in 0.514103531 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:35
+                    jekyll.log
+                    ...done in 0.306414759 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:36
+                    jekyll.log
+                    ...done in 0.289997761 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:37
+                    jekyll.log
+                    ...done in 0.288527761 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:38
+                    jekyll.log
+                    ...done in 0.29737896 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:39
+                    jekyll.log
+                    ...done in 0.29090346 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:40
+                    jekyll.log
+                    ...done in 0.284979862 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:41
+                    jekyll.log
+                    ...done in 0.284383262 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:42
+                    jekyll.log
+                    ...done in 0.321005943 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:43
+                    jekyll.log
+                    ...done in 0.299474547 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:44
+                    jekyll.log
+                    ...done in 0.297726248 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:45
+                    jekyll.log
+                    ...done in 0.472942117 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:46
+                    jekyll.log
+                    ...done in 0.291372449 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:47
+                    jekyll.log
+                    ...done in 0.307023647 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:48
+                    jekyll.log
+                    ...done in 0.278027951 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:49
+                    jekyll.log
+                    ...done in 0.536121906 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:50
+                    jekyll.log
+                    ...done in 0.273214376 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:51
+                    jekyll.log
+                    ...done in 0.302424395 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:52
+                    jekyll.log
+                    ...done in 0.269769673 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:53
+                    jekyll.log
+                    ...done in 0.315383303 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:54
+                    jekyll.log
+                    ...done in 0.272514275 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:55
+                    jekyll.log
+                    ...done in 0.282192782 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:56
+                    jekyll.log
+                    ...done in 0.261907169 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:57
+                    jekyll.log
+                    ...done in 0.29570649 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:58
+                    jekyll.log
+                    ...done in 0.282795152 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:46:59
+                    jekyll.log
+                    ...done in 0.285627753 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:00
+                    jekyll.log
+                    ...done in 0.305121856 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:01
+                    jekyll.log
+                    ...done in 0.298441155 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:02
+                    jekyll.log
+                    ...done in 0.27451055 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:03
+                    jekyll.log
+                    ...done in 0.275699951 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:04
+                    jekyll.log
+                    ...done in 0.315031758 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:05
+                    jekyll.log
+                    ...done in 0.300840756 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:06
+                    jekyll.log
+                    ...done in 0.283390803 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:07
+                    jekyll.log
+                    ...done in 0.354839704 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:08
+                    jekyll.log
+                    ...done in 0.318375004 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:09
+                    jekyll.log
+                    ...done in 0.325982204 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:10
+                    jekyll.log
+                    ...done in 0.321950803 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:11
+                    jekyll.log
+                    ...done in 0.329484504 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:12
+                    jekyll.log
+                    ...done in 0.330659303 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:13
+                    jekyll.log
+                    ...done in 0.325880203 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:14
+                    jekyll.log
+                    ...done in 0.341801994 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:15
+                    jekyll.log
+                    ...done in 0.296004895 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:16
+                    jekyll.log
+                    ...done in 0.337887695 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:17
+                    jekyll.log
+                    ...done in 0.298982395 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:18
+                    jekyll.log
+                    ...done in 0.277089995 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:19
+                    jekyll.log
+                    ...done in 0.279842096 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:20
+                    jekyll.log
+                    ...done in 0.460373492 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:21
+                    jekyll.log
+                    ...done in 0.293024195 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:22
+                    jekyll.log
+                    ...done in 0.296257453 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:23
+                    jekyll.log
+                    ...done in 0.351813863 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:24
+                    jekyll.log
+                    ...done in 0.359657765 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:25
+                    jekyll.log
+                    ...done in 0.286587051 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:26
+                    jekyll.log
+                    ...done in 0.290038351 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:27
+                    jekyll.log
+                    ...done in 0.323074558 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:28
+                    jekyll.log
+                    ...done in 0.295676152 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:29
+                    jekyll.log
+                    ...done in 0.289651052 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:30
+                    jekyll.log
+                    ...done in 0.285177987 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:31
+                    jekyll.log
+                    ...done in 0.301153987 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:32
+                    jekyll.log
+                    ...done in 0.288400188 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:33
+                    jekyll.log
+                    ...done in 0.291185087 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:34
+                    jekyll.log
+                    ...done in 0.296575987 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:35
+                    jekyll.log
+                    ...done in 0.274266888 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:36
+                    jekyll.log
+                    ...done in 0.279226588 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:37
+                    jekyll.log
+                    ...done in 0.309482986 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:38
+                    jekyll.log
+                    ...done in 0.289096349 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:39
+                    jekyll.log
+                    ...done in 0.285597848 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:40
+                    jekyll.log
+                    ...done in 0.291266049 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:41
+                    jekyll.log
+                    ...done in 0.304481151 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:42
+                    jekyll.log
+                    ...done in 0.277413047 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:43
+                    jekyll.log
+                    ...done in 0.338093757 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:44
+                    jekyll.log
+                    ...done in 0.317830254 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:45
+                    jekyll.log
+                    ...done in 0.351369559 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:46
+                    jekyll.log
+                    ...done in 0.340930006 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:47
+                    jekyll.log
+                    ...done in 0.338183806 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:48
+                    jekyll.log
+                    ...done in 0.287024205 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:49
+                    jekyll.log
+                    ...done in 0.341079507 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:50
+                    jekyll.log
+                    ...done in 0.324083705 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:51
+                    jekyll.log
+                    ...done in 0.285300705 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:52
+                    jekyll.log
+                    ...done in 0.56364041 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:53
+                    jekyll.log
+                    ...done in 0.292632006 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:54
+                    jekyll.log
+                    ...done in 0.31406914 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:55
+                    jekyll.log
+                    ...done in 0.31915794 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:56
+                    jekyll.log
+                    ...done in 0.286584736 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:57
+                    jekyll.log
+                    ...done in 0.278699936 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:58
+                    jekyll.log
+                    ...done in 0.285689836 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:47:59
+                    jekyll.log
+                    ...done in 0.308457939 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:00
+                    jekyll.log
+                    ...done in 0.275779735 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:01
+                    jekyll.log
+                    ...done in 0.299490638 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:02
+                    jekyll.log
+                    ...done in 0.296431544 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:03
+                    jekyll.log
+                    ...done in 0.289911542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:04
+                    jekyll.log
+                    ...done in 0.302609344 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:05
+                    jekyll.log
+                    ...done in 0.287757443 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:06
+                    jekyll.log
+                    ...done in 0.279387441 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:07
+                    jekyll.log
+                    ...done in 0.279474441 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:08
+                    jekyll.log
+                    ...done in 0.291799043 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:09
+                    jekyll.log
+                    ...done in 0.278392541 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:10
+                    jekyll.log
+                    ...done in 0.295415325 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:11
+                    jekyll.log
+                    ...done in 0.295956025 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:12
+                    jekyll.log
+                    ...done in 0.289340324 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:13
+                    jekyll.log
+                    ...done in 0.302128625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:14
+                    jekyll.log
+                    ...done in 0.285378923 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:15
+                    jekyll.log
+                    ...done in 0.281253823 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:16
+                    jekyll.log
+                    ...done in 0.308559825 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-07-19 23:48:17
+                    jekyll.log
+                    ...done in 0.307793726 seconds.
+                    

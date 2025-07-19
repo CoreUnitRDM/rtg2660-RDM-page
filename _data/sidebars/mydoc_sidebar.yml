@@ -1,0 +1,79 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: About Us
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: Our INF Team
+      url: /mydoc_about_inf.html
+      output: web, pdf
+
+    - title: Support
+      url: /mydoc_support.html
+      output: web, pdf
+
+  - title: RDM in RTG2660
+    output: web, pdf
+    folderitems:
+
+    - title: RDM Plan
+      url: /mydoc_rdm_plan.html
+      output: web, pdf
+
+    - title: RDM Progress
+      url: /mydoc_rdm_progress.html
+      output: web, pdf
+
+    - title: (Meta)Data Standards
+      url: /mydoc_standards.html
+      output: web, pdf
+
+  - title: RDM Resources
+    output: web, pdf
+    folderitems:
+
+    - title: Nextcloud
+      url: /mydoc_nextcloud.html
+      output: web, pdf
+
+    - title: JupyterHub
+      url: /mydoc_jhub.html
+      output: web, pdf
+
+    - title: Labfolder
+      url: /mydoc_labfolder.html
+      output: web, pdf
+
+    - title: Archiving
+      url: /mydoc_archive.html
+      output: web, pdf
+
+    - title: GitHub
+      url: /mydoc_github.html
+      output: web, pdf
+
+
+# Copyright 2021 Google LLC
